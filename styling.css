@@ -21,6 +21,8 @@
   [class*="col-"] {
     width: 100%;
   }
+    .company{display: none;}
+    img {align-content: center;}
 }
 	body {
   background-color: #b3ecff;
