@@ -31,4 +31,4 @@ a {
   color: #6600ff; font-size: 35px;
 }
 h1 {text-align: center; color: #000; font-size: 100px; line-height: 100px;}
-	h2 {text-align: left; color: hsl(9, 100%, 64%); font-size: 70px; line-height: 20px;}
+	h2 {text-align: left; color: hsl(9, 100%, 64%); font-size: 70px; line-height: 20px; margin: 70px; position: relative; padding-top: 60px;}
