@@ -1,7 +1,12 @@
-
 	* {
   box-sizing: border-box;
 }
+
+.myDiv {
+  border: 5px outset black;   
+  text-align: center;
+}
+
 /* For desktop: */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -24,11 +29,13 @@
     .company{display: none;}
     img {align-content: center;}
 }
-	body {
+
+
+body {
   background-color: #b3ecff;
 }
 a {
   color: #6600ff; font-size: 35px;
 }
 h1 {text-align: center; color: #000; font-size: 100px; line-height: 100px;}
-	h2 {text-align: left; color: hsl(9, 100%, 64%); font-size: 70px; line-height: 20px; margin: 70px; position: relative; padding-top: 60px;}
+h2 {text-align: left; color: hsl(9, 100%, 64%); font-size: 70px; line-height: 20px; margin: 70px; position: relative; padding-top: 60px;}
